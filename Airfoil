@@ -1,4 +1,4 @@
-Frequency,in Hertzs.	Angle of attack,in degrees.	Chord length,in meters.	Free-stream velocity,in meters per second.  Suction side displacementthickness,in meters.	 Scaled sound pressure level,in decibels.  	
+Frequency	Angleofattack	Chordlength	Free-streamvelocity	Suctionsidedisplacement	soundpressurelevel  	
 800	0	0.3048	71.3	0.00266337	126.201
 1000	0	0.3048	71.3	0.00266337	125.201
 1250	0	0.3048	71.3	0.00266337	125.951
